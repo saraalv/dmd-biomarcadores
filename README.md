@@ -1,2 +1,2 @@
 # dmd-biomarcadores
-Análisis estadístico de biomarcadores asociados a la distrofia muscular de Duchenne
+Mini proyecto académico de análisis y exploración de datos biomédicos relacionados con la distrofia muscular de Duchenne (DMD). El proyecto utiliza R para analizar un conjunto de 209 observaciones y estudiar la relación entre diferentes variables clínicas y biomarcadores, como la creatina quinasa, hemopexina, piruvato quinasa y lactato deshidrogenasa. Se realizan análisis descriptivos, visualizaciones, simulaciones y modelos de regresión para explorar las diferencias entre mujeres portadoras y no portadoras y estudiar posibles factores asociados a los niveles de estos marcadores.
