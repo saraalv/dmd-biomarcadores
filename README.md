@@ -276,24 +276,24 @@ The analysis includes:
 dmd-biomarcadores/
 │
 ├── README.md
-├── LICENSE
-├── .gitignore
 │
 ├── data/
 │   └── dmd.csv
+│   └── dmd.RData
 │
 ├── R/
 │   ├── data_cleaning.R
 │   ├── exploratory_analysis.R
-│   ├── correlation_analysis.R
+│   ├── probability.R
 │   └── regression_models.R
+│   └── anova.R
 │
 ├── figures/
 │   ├── biomarker_distributions/
-│   ├── carrier_comparisons/
+│   ├── anova/
 │   └── regression/
 │
-└── analysis/
+└── Notebooks/
     └── dmd_biomarkers.Rmd
 
 ```
